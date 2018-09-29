@@ -1,5 +1,9 @@
 # zxingLibraryDemo
+
+使用Zxing扫码框架,调整相机的功能模块来优化扫码效果,耳标扫码识别率很高
+
 - 先上图
+
 <img src="https://github.com/juesai2015/ZxingLibraryDemo/raw/master/images/1.gif" width="360" height="640"  />
 
 
