@@ -1,6 +1,6 @@
 # zxingLibraryDemo
 - 先上图
-<img src="https://github.com/juesai2015/PrinterPOSDemo/raw/master/screenshot/1538187574944.gif" width="360" height="640"  />
+<img src="https://github.com/juesai2015/ZxingLibraryDemo/raw/master/images/1.gif" width="360" height="640"  />
 
 
 
