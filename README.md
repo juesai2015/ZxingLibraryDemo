@@ -10,4 +10,4 @@
 
 
 
-感谢@一片枫叶给我的支持：<a href="https://github.com/yipianfengye/android-zxingLibrary">几行代码快速集成二维码扫描库</a>
+感谢@一片枫叶给予的支持：<a href="https://github.com/yipianfengye/android-zxingLibrary">几行代码快速集成二维码扫描库</a>
