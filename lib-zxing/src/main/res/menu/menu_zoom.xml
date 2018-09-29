@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/zoom2"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="还原2">
+    </item>
+    <item
+        android:id="@+id/zoom20"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="20">
+    </item>
+    <item
+        android:id="@+id/zoom40"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="40">
+    </item>
+    <item
+        android:id="@+id/zoom60"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="60">
+    </item>
+    <item
+        android:id="@+id/zoom78"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="78">
+    </item>
+
+</menu>
